@@ -1,6 +1,6 @@
 ## Welcome to Git
 
-#What is git?
+# What is git?
 Git is a distributed version control. It allows you to work on code with others while keeping your code on you personal machine.
 
 What does git let us do?
