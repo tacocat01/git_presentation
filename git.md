@@ -47,5 +47,5 @@ If you decide you like git I recommend setting up ssh so that you don't have to 
 
 ## Want to learn more?
 
-  - interactive git tutorial https://learngitbranching.js.org/
   - shell tutor, created by our own Erik Falor and Jaxton Winder, module 6 is all about git - https://gitlab.cs.usu.edu/erik.falor/shell-tutor 
+  - interactive git branching tutorial https://learngitbranching.js.org/
