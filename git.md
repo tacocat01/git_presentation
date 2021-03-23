@@ -1,4 +1,4 @@
-# Welcome to Git
+# Intro to Git
 
 ## What is git?
 
@@ -38,14 +38,14 @@ If you decide you like git I recommend setting up ssh so that you don't have to 
   - push - this pushes all snapshots since the last push to your remote repository
   - pull - this pulls all snapshots that your repository doesn't have to your machine
   - branch - allows you to see and create branches
+  - log - shows you the history of your commits
   - checkout - allows you move between branches **and** snapshots
   - init - initializes a git repo on your computer
   - clone - clones a repo onto your device
   - diff - show unstaged changes you have made
   - merge - merge one branches commits into another branches
-  - log - shows you the history of your commits
 
 ## Want to learn more?
 
   - interactive git tutorial https://learngitbranching.js.org/
-  - shell tutor, created by our own Erik Falorand Jaxton Winder, module 6 is all about git - https://gitlab.cs.usu.edu/erik.falor/shell-tutor 
+  - shell tutor, created by our own Erik Falor and Jaxton Winder, module 6 is all about git - https://gitlab.cs.usu.edu/erik.falor/shell-tutor 
