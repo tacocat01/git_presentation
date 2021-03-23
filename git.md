@@ -22,11 +22,11 @@ If you decide you like git I recommend setting up ssh so that you don't have to 
   - repositories (AKA repo) - A collection of all the files and history of those files 
     - remote repository - the repository on github or a similiar service
     - local repository - the repository on your machine
-  - commit - the act of creating a snapshot of your code  
+  - commit - the act of creating a snapshot of your code
   - cloning - the act of copying a repository from a remote server to your device
   - branch - A bunch of commits linked together, you can have branches stem off of another branch
   - HEAD - A reference to the most recent commit
-  - main - This was previously known as master but it is the main branch in your project
+  - main - This was previously known as master, it is the main branch in your project
   - branching - to create a branch off of another branch
   - merging - to merge two branches together
 
@@ -39,7 +39,7 @@ If you decide you like git I recommend setting up ssh so that you don't have to 
   - pull - this pulls all snapshots that your repository doesn't have to your machine
   - branch - allows you to see and create branches
   - log - shows you the history of your commits
-  - checkout - allows you move between branches **and** snapshots
+  - checkout - allows you move between branches **and** snapshots/commits
   - init - initializes a git repo on your computer
   - clone - clones a repo onto your device
   - diff - show unstaged changes you have made
