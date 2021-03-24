@@ -31,7 +31,7 @@ If you decide you like git I recommend setting up ssh so that you don't have to 
   - merging - to merge two branches together
 
 ## Git actions
-
+this
   - status - tells you what files have been modified and what files are on the staged
   - add [file(s)] - this adds the files you select to your staging index to be commited into the snapshot
   - commit - this takes a snapshot of whatever files are on the loading stage
